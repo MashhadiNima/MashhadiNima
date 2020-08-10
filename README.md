@@ -2,7 +2,7 @@
 
 
 ## What is my toolbox?
-<img src="https://github.com/MashhadiNima/MashhadiNima/raw/master/etc/me.jpg" align="right" height="50" />
+<img src="https://github.com/MashhadiNima/MashhadiNima/raw/master/etc/me.jpg" align="right" height="125" />
 
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-fcd821?style=plastic&logo=Python)
@@ -18,7 +18,7 @@
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 
 ## Some of my Github Public Stats
-<img src="https://github.com/MashhadiNima/MashhadiNima/raw/master/etc/cartoon.png" align="right" height="50" />
+<img src="https://github.com/MashhadiNima/MashhadiNima/raw/master/etc/cartoon.png" align="right" height="140" />
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=MAshhadiNima&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MashhadiNima)
 
