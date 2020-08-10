@@ -25,7 +25,7 @@
 
 ## Find me around the web :globe_with_meridians:
 [![Gmail Badge](https://img.shields.io/badge/-nimashadix@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nimashadix@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-nimashadix%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nimashadix/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-nimashadix-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nimashadix/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@nimashadix-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/nimashadix "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@nimashadix-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=nimashadix "Follow on Twitter")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/nimashadix/)
