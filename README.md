@@ -17,7 +17,7 @@
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 
 ## Some of my Github Public Stats
-<img src="https://github.com/MashhadiNima/MashhadiNima/raw/master/etc/cartoon.png" align="right" height="250" />
+<img src="https://github.com/MashhadiNima/MashhadiNima/raw/master/etc/cartoon.png" align="right" height="200" />
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=MAshhadiNima&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MashhadiNima)
 
