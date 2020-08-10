@@ -24,9 +24,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MashhadiNima&color=1DB954)
 
 ## Find me around the web :globe_with_meridians:
-[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nimashadix@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nimashadix/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/nimashadix "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=nimashadix "Follow on Twitter")
+[![Gmail Badge](https://img.shields.io/badge/-nimashadix@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nimashadix@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-nimashadix%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nimashadix/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@nimashadix-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/nimashadix "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@nimashadix-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=nimashadix "Follow on Twitter")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/nimashadix/)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/lt7dp7h5uildq8b7m53k7wg4e)
